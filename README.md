@@ -15,9 +15,14 @@ The app allows users to open multiple windows when chatting to the LLM. So it
 is great for jumping back and forth between different topics. 
 
 ## How to use this?
-Well, for now, you will have to compile the source code by yourself. I will publish
-a compiled executable later on. So if you are interested in that, please star the
-repo and stay tuned. 
+1. Download the zip file from the `Release` section. 
+2. Unzip. Then, drag and drop the app to the `Application` folder. 
+3. Open and enjoy!
+
+**Note**
+You may need to setup your own API credentials and connections in the `Settings` by hitting `CMD + ,`. 
+
+To start a new window/thread, hit `CMD + N`. Or, you may click the `+` button to start a new tab. 
 
 ## Contribution
 As always, it is more than welcomed to have people contribute to this project. Just submit
